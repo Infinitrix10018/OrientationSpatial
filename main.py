@@ -1,7 +1,8 @@
 #programme fait dans le cours d'un projet d'inteligence artificiel
 # crée par:
-#
-#
+# Francis Chalifour
+# Mathieu Lafontaine
+# aidé par le professeur David B. Brouillette
 import datetime
 import serial
 import threading
